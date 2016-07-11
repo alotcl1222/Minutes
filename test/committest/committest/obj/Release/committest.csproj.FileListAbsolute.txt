@@ -1,0 +1,14 @@
+D:\Github\workshop\test\committest\committest\bin\Release\committest.exe.config
+D:\Github\workshop\test\committest\committest\bin\Release\committest.exe
+D:\Github\workshop\test\committest\committest\bin\Release\committest.pdb
+D:\Github\workshop\test\committest\committest\obj\Release\committest.csprojResolveAssemblyReference.cache
+D:\Github\workshop\test\committest\committest\obj\Release\MainWindow.g.cs
+D:\Github\workshop\test\committest\committest\obj\Release\App.g.cs
+D:\Github\workshop\test\committest\committest\obj\Release\committest_MarkupCompile.cache
+D:\Github\workshop\test\committest\committest\obj\Release\committest_MarkupCompile.lref
+D:\Github\workshop\test\committest\committest\obj\Release\MainWindow.baml
+D:\Github\workshop\test\committest\committest\obj\Release\committest.g.resources
+D:\Github\workshop\test\committest\committest\obj\Release\committest.Properties.Resources.resources
+D:\Github\workshop\test\committest\committest\obj\Release\committest.csproj.GenerateResource.Cache
+D:\Github\workshop\test\committest\committest\obj\Release\committest.exe
+D:\Github\workshop\test\committest\committest\obj\Release\committest.pdb
